@@ -18,6 +18,4 @@
 * worker运行
   * 切换到asyncflow/worker/src目录下
   * `go run main.go`
-  
-## 创建一条测试任务
-* 打开训练营flowsvr设计文档，使用接口文档创建对应任务
+
